@@ -1,0 +1,9 @@
+id,type,name,status,description,epic
+1,TASK,Таск 1,DONE,Доделать тз,null
+2,TASK,Таск 2,DONE,попытаться сдать тз,null
+3,TASK,Таск 3,NEW, Посмотреть футбол,null
+4,TASK,Таск 4,NEW,Посмотреть сериал,null
+5,EPIC,Эпик 1,NEW,Почитать книгу,null
+6,EPIC,Эпик 2,NEW,поесть,null
+
+1,2,3,4,
